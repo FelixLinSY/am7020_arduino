@@ -1,2 +1,42 @@
-# am7020_arduino
- AM7020 (SIM7020) NBIoT module example code for Arduino
+# AM7020 Arduino 範例程式碼
+ [AM7020](https://atticedu.com/index.php/am7020.html) (SIMCOM SIM7020) 窄頻物聯網(NBIoT)模組 Arduino 範例程式碼
+ 
+  ![AM7020](images/am7020_front.jpg)
+ 
+ ## 相依函式庫 dependent libraries
+ * tinyGSM (/w SIM7020 patch)
+ * ArduinoHttpClinet (/w SIM7020 patch) for HTTP/HTTPS
+ * [PubSubClient](https://github.com/knolleary/pubsubclient) for MQTT/MQTTS
+ * [SSLClinet](https://github.com/OPEnSLab-OSU/SSLClient) for HTTPS/MQTTS
+ 
+ ## 通訊協定與開發板支援表
+ 
+ | Boards | HTTP | HTTPS | MQTT | MQTTS |
+| ------           | ------ | ------ |------ | ------ |
+| Arduino UNO/Nano | supported |            | supported |  |
+| Arduino Mega     | supported |            | supported |           |
+| ESP32             | supported | supported | supported | supported |
+| Arduino MKR Series | supported | supported | supported | supported | 
+
+
+# AM7020 Arduino 
+ AM7020 (SIMCOM SIM7020) NBIoT module example code for Arduino
+ 
+ ## dependent libraries
+ * tinyGSM (/w SIM7020 patch)
+ * ArduinoHttpClinet (/w SIM7020 patch) for HTTP/HTTPS
+ * [PubSubClient](https://github.com/knolleary/pubsubclient) for MQTT/MQTTS
+ * [SSLClinet](https://github.com/OPEnSLab-OSU/SSLClient) for HTTPS/MQTTS
+ 
+ ## Supported protocol for Arduino boards
+ 
+ | Boards | HTTP | HTTPS | MQTT | MQTTS |
+| ------           | ------ | ------ |------ | ------ |
+| Arduino UNO/Nano | supported |            | supported |  |
+| Arduino Mega     | supported |            | supported |           |
+| ESP32             | supported | supported | supported | supported |
+| Arduino MKR Series | supported | supported | supported | supported |
+ 
+ 
+ 
+ 
