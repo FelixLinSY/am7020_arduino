@@ -52,7 +52,7 @@
 #endif
 
 /* set GSM PIN */
-#define GSM_PIN             ""
+#define GSM_PIN ""
 
 // for taiwan mobile
 #define APN                 "twm.nbiot"
@@ -63,8 +63,8 @@
 //#define BAND              8
 
 // MQTT Setting
-#define MQTT_BROKER         "broker.hivemq.com"
-#define MQTT_PORT           1883
+#define MQTT_BROKER         "test.mosquitto.org"
+#define MQTT_PORT           8883
 #define MQTT_USERNAME       ""
 #define MQTT_PASSWORD       ""
 #define MQTT_TOPIC          "temp/humidity"
