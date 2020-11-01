@@ -4,7 +4,7 @@
   ![AM7020](images/am7020_front.jpg)
  
  ## 相依函式庫 dependent libraries
- * tinyGSM (/w SIM7020 patch)
+ * [tinyGSM](https://github.com/FelixLinSY/TinyGSM) (/w SIM7020 patch)
  * [ArduinoHttpClinet](https://github.com/FelixLinSY/ArduinoHttpClient) (/w SIM7020 patch) for HTTP/HTTPS
  * [PubSubClient](https://github.com/knolleary/pubsubclient) for MQTT/MQTTS
  * [SSLClinet](https://github.com/OPEnSLab-OSU/SSLClient) for HTTPS/MQTTS
@@ -18,7 +18,8 @@
 | ESP32             | supported | supported | supported | supported |
 | Arduino MKR Series | supported | supported | supported | supported | 
 
-
+ ## 教學說明
+  待新增
 
 
 # AM7020 Arduino 
@@ -26,7 +27,7 @@
  ![AM7020](images/am7020_front.jpg)
    
  ## dependent libraries
- * tinyGSM (/w SIM7020 patch)
+ * [tinyGSM](https://github.com/FelixLinSY/TinyGSM) (/w SIM7020 patch)
  * [ArduinoHttpClinet](https://github.com/FelixLinSY/ArduinoHttpClient) (/w SIM7020 patch) for HTTP/HTTPS
  * [PubSubClient](https://github.com/knolleary/pubsubclient) for MQTT/MQTTS
  * [SSLClinet](https://github.com/OPEnSLab-OSU/SSLClient) for HTTPS/MQTTS
@@ -40,6 +41,6 @@
 | ESP32             | supported | supported | supported | supported |
 | Arduino MKR Series | supported | supported | supported | supported |
  
- 
- 
+## Tutorial 
+ TBD
  
