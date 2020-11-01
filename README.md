@@ -5,7 +5,7 @@
  
  ## 相依函式庫 dependent libraries
  * tinyGSM (/w SIM7020 patch)
- * ArduinoHttpClinet (/w SIM7020 patch) for HTTP/HTTPS
+ * [ArduinoHttpClinet](https://github.com/FelixLinSY/ArduinoHttpClient) (/w SIM7020 patch) for HTTP/HTTPS
  * [PubSubClient](https://github.com/knolleary/pubsubclient) for MQTT/MQTTS
  * [SSLClinet](https://github.com/OPEnSLab-OSU/SSLClient) for HTTPS/MQTTS
  
@@ -19,12 +19,15 @@
 | Arduino MKR Series | supported | supported | supported | supported | 
 
 
+
+
 # AM7020 Arduino 
  AM7020 (SIMCOM SIM7020) NBIoT module example code for Arduino
- 
+ ![AM7020](images/am7020_front.jpg)
+   
  ## dependent libraries
  * tinyGSM (/w SIM7020 patch)
- * ArduinoHttpClinet (/w SIM7020 patch) for HTTP/HTTPS
+ * [ArduinoHttpClinet](https://github.com/FelixLinSY/ArduinoHttpClient) (/w SIM7020 patch) for HTTP/HTTPS
  * [PubSubClient](https://github.com/knolleary/pubsubclient) for MQTT/MQTTS
  * [SSLClinet](https://github.com/OPEnSLab-OSU/SSLClient) for HTTPS/MQTTS
  
