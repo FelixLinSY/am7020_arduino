@@ -9,7 +9,7 @@
  * [PubSubClient](https://github.com/knolleary/pubsubclient) for MQTT/MQTTS
  * [SSLClinet](https://github.com/OPEnSLab-OSU/SSLClient) for HTTPS/MQTTS
  
- 為方便起見，也可以直接下載打包好的 [library 壓縮檔](http://bit.ly/am7020lib)，下載後直接解壓縮到 Arduino/libraries 目錄下即可。
+ 為方便起見，也可以直接下載打包好的 [library 壓縮檔](https://bit.ly/am7020libn)，下載後直接解壓縮到 Arduino/libraries 目錄下即可。
  
  
  ## 通訊協定與開發板支援表
